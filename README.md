@@ -1,6 +1,6 @@
 ## Bonram Customization
 
-ERPNext customizations designed to enhance the ERP system for Bonram Talent Management.
+Custom ERPNext App designed to enhance the ERP system for Bonram Talent Management.
 
 #### License
 
